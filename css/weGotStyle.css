@@ -1,0 +1,81 @@
+.pantry{
+    width: 500px;
+    border: 4px solid black;
+    padding: 4px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+.freezer{
+    width: 500px;
+    border: 4px solid black;
+    padding: 4px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+.canned{
+    width:246px;
+    height: 150px;
+    padding: 4px;
+    margin-left: 20px;
+    border: 4px solid aquamarine;
+    color: white;
+    background-color:black;
+    display: inline-block;
+}
+
+.dry{
+    width:246px;
+    height: 150px;
+    padding: 4px;
+    border: 4px solid aquamarine;
+    color: white;
+    background-color:black;
+    display:inline-block;
+}
+
+.healthy{
+    width:246px;
+    height: 250px;
+    padding: 4px;
+    margin-left: 20px;
+    border: 4px solid aquamarine;
+    color: white;
+    background-color:black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.munchies{
+    width:246px;
+    height: 250px;
+    padding: 4px;
+    border: 4px solid aquamarine;
+    color: white;
+    background-color:black;
+    display:inline-block;
+    vertical-align: top;
+}
+
+.dryImage{
+    width:auto;
+    border: 4px solid aquamarine;
+    padding: 4px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.frozenImage{
+    width:auto;
+    border: 4px solid aquamarine;
+    padding: 4px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+}
